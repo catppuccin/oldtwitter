@@ -34,11 +34,11 @@
 <img src="assets/mocha.webp"/>
 </details>
 
-## Usagew
+## Usage
 
 1. Clone this repository locally
-2. Make sure you have the [OldTwitter Extenstion](https://github.com/dimdenGD/OldTwitter) enabled
-3. On there, click your profile icon
+2. Make sure you have the [OldTwitter Extenstion](https://github.com/dimdenGD/OldTwitter) installed & enabled
+3. On Twitter/X, click your profile icon
 4. Go to `Settings`
 5. Scroll all the way down to the `Import Style` button 
 6. Select it and choose your preffered flavour from the `src` folder
