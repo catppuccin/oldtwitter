@@ -41,7 +41,7 @@
 3. On Twitter/X, click your profile icon
 4. Go to `Settings`
 5. Scroll all the way down to the `Import Style` button 
-6. Select it and choose your preffered flavour from the `src` folder
+6. Select it and choose your preferred flavour from the `src` folder
 7. Enjoy!
 
 
