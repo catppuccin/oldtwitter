@@ -1,0 +1,8 @@
+---
+whiskers:
+  version: "2.3.0"
+  matrix:
+    - flavor
+  filename: "src/{{ flavor.identifier }}.json"
+---
+{"customCSSVariables":"--more-color: {{ blue | css_rgba }};\n--background-color: {{ base | css_rgba }};\n--dark-background-color: {{ mantle | css_rgba }};\n--darker-background-color: {{ crust | css_rgba }};\n--almost-black: {{ subtext1 | css_rgba }};\n--border: {{ overlay0 | mod(opacity=0.54) | css_rgba }};\n--darker-gray: {{ subtext0 | css_rgba }};\n--lil-darker-gray: {{ overlay2 | css_rgba }};\n--light-gray: {{ subtext1 | css_rgba }};\n--default-text-color: {{ text | css_rgba }};\n--input-background: {{ mantle | css_rgba }};\n--new-tweet-over: {{ base | css_rgba }};\n--active-message: {{ mantle | css_rgba }};\n--choice-bg: {{ mantle | css_rgba }};\n--menu-bg: {{ mantle | css_rgba }};\n--list-actions-bg: {{ mantle | css_rgba }};","linkColor":"{{ blue | css_rgba }}"}
