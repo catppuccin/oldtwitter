@@ -15,6 +15,8 @@
 	<img src="assets/preview.webp"/>
 </p>
 
+## ⚠️ARCHIVED DUE TO THE OLDTWITTER EXTENSTION BEING UNUSABLE⚠️
+
 ## Previews
 
 <details>
